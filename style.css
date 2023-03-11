@@ -163,6 +163,10 @@ img {
 }
 
 @media(min-width: 1440px) {
+    .wrapper {
+        padding: 50px 50px 0;
+    }
+
     .title {
         font-size: 50px;
     }
